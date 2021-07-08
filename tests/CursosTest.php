@@ -160,7 +160,7 @@ class CursosTest extends TestCase
         }
 
         /**
-         * @testdox Actualizar un curso en particular (404)
+         * @testdox Eliminar un curso en particular (404)
          */
         public function testNoDeleteCurso()
         {
